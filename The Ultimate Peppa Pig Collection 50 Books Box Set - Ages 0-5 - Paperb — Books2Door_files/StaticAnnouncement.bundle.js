@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[22],{52:function(n,o,i){"use strict";function t(n,o){if(!(n instanceof o))throw new TypeError("Cannot call a class as a function")}i.r(o),i.d(o,"default",(function(){return a}));var a=function n(o){t(this,n),window.Shopify&&window.Shopify.designMode&&o.postMessage("announcement:load")}}}]);
+//# sourceMappingURL=/s/files/1/0024/6874/1219/t/34/assets/StaticAnnouncement.bundle.js.map?v=6184528607244385356

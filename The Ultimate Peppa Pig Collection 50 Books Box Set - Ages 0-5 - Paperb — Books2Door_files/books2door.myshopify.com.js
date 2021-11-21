@@ -1,0 +1,2 @@
+const trustpilot_trustbox_settings = {"trustboxes":[],"activeTrustbox":0,"pageUrls":{"landing":"https://books2door.myshopify.com","category":"https://books2door.myshopify.com/collections/10-for-10","product":"https://books2door.myshopify.com/products/9780198425496"}};
+dispatchEvent(new CustomEvent('trustpilotTrustboxSettingsLoaded'));
